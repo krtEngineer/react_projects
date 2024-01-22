@@ -9,3 +9,8 @@ React Mini Projects
 
 - source code: https://github.com/krtEngineer/react_projects/tree/master/backroads_tour_company
 - live demo: https://krt-backroads.netlify.app/
+
+3. Birthday Buddy :white_check_mark:
+
+- source code: https://github.com/krtEngineer/react_projects/tree/master/birthday_buddy
+- live demo: krt-birthday-buddy.netlify.app

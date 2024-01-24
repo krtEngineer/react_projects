@@ -14,3 +14,8 @@ React Mini Projects
 
 - source code: https://github.com/krtEngineer/react_projects/tree/master/birthday_buddy
 - live demo: https://krt-birthday-buddy.netlify.app/
+
+4. Tours :white_check_mark:
+
+- source code: https://github.com/krtEngineer/react_projects/tree/master/tours
+- live demo: https://krt-tours.netlify.app/

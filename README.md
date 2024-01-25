@@ -19,3 +19,28 @@ React Mini Projects
 
 - source code: https://github.com/krtEngineer/react_projects/tree/master/tours
 - live demo: https://krt-tours.netlify.app/
+
+5. Reviews :white_check_mark:
+
+- live demo: https://krt-reviews-react.netlify.app/
+- source code: https://github.com/krtEngineer/react_projects/tree/master/reviews
+
+6. Questions :white_check_mark:
+
+- live demo: https://krt-questions-react.netlify.app/
+- source code: https://github.com/krtEngineer/react_projects/tree/master/questions
+
+7. Menu :white_check_mark:
+
+- live demo: https://krt-menu-react.netlify.app/
+- source code: https://github.com/krtEngineer/react_projects/tree/master/menu
+
+8. Tabs :white_check_mark:
+
+- live demo: https://krt-tabs-react.netlify.app/
+- source code: https://github.com/krtEngineer/react_projects/tree/master/tabs
+
+9. Slider :white_check_mark:
+
+- live demo: https://krt-slider-react.netlify.app/
+- source code: https://github.com/krtEngineer/react_projects/tree/master/slider

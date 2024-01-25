@@ -35,7 +35,6 @@ function App() {
       </div>
       <div className="section-center">
         {data.map((person, personIndex) => {
-          console.log(`personIndex: ${personIndex} && index: ${index}`);
           const { id, image, name, title, quote } = person;
           let position = "";
           if (personIndex === index) {

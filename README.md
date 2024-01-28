@@ -44,3 +44,8 @@ React Mini Projects
 
 - live demo: https://krt-slider-react.netlify.app/
 - source code: https://github.com/krtEngineer/react_projects/tree/master/slider
+
+10. Lorem Ipsum :white_check_mark:
+
+- live demo: https://krt-lorem-ipsum.netlify.app/
+- source code: https://github.com/krtEngineer/react_projects/tree/master/lorem-ipsum

@@ -1,0 +1,1 @@
+Color shade generator project.

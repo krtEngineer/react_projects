@@ -49,3 +49,8 @@ React Mini Projects
 
 - live demo: https://krt-lorem-ipsum.netlify.app/
 - source code: https://github.com/krtEngineer/react_projects/tree/master/lorem-ipsum
+
+11. Color Generator :white_check_mark:
+
+- live demo: https://krt-color-generator.netlify.app/
+- source code: https://github.com/krtEngineer/react_projects/tree/master/color_generator

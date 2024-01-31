@@ -1,56 +1,94 @@
 React Mini Projects
+```json
+[
+  {
+    "id": 1,
+    "name": "book list",
+    "demo": "https://krt-book-list.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/book_list",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 2,
+    "name": "back roads",
+    "demo": "https://krt-book-list.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/book_list",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 3,
+    "name": "bdday buddy",
+    "demo": "https://krt-book-list.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/book_list",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 4,
+    "name": "tours",
+    "demo": "https://krt-tours.netlify.app/",
+    "code": " https://github.com/krtEngineer/react_projects/tree/master/tours",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 5,
+    "name": "reviews",
+    "demo": "https://krt-reviews-react.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/reviews",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 6,
+    "name": "questions",
+    "demo": "https://krt-questions-react.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/questions",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 7,
+    "name": "menu",
+    "demo": "https://krt-menu-react.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/menu",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 8,
+    "name": "tabs",
+    "demo": "https://krt-tabs-react.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/tabs",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 9,
+    "name": "slider",
+    "demo": "https://krt-slider-react.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/slider",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 10,
+    "name": "lorem ipsum",
+    "demo": "https://krt-lorem-ipsum.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/lorem-ipsum",
+    "img": "",
+    "status": 1,
+  },
+  {
+    "id": 11,
+    "name": "color gen",
+    "demo": "https://krt-color-generator.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/color_generator",
+    "img": "",
+    "status": 1,
+  },
+]
 
-1. Book List :white_check_mark:
-
-- source code: https://github.com/krtEngineer/react_projects/tree/master/book_list
-- live demo: https://krt-book-list.netlify.app/
-
-2. Backroads :white_check_mark:
-
-- source code: https://github.com/krtEngineer/react_projects/tree/master/backroads_tour_company
-- live demo: https://krt-backroads.netlify.app/
-
-3. Birthday Buddy :white_check_mark:
-
-- source code: https://github.com/krtEngineer/react_projects/tree/master/birthday_buddy
-- live demo: https://krt-birthday-buddy.netlify.app/
-
-4. Tours :white_check_mark:
-
-- source code: https://github.com/krtEngineer/react_projects/tree/master/tours
-- live demo: https://krt-tours.netlify.app/
-
-5. Reviews :white_check_mark:
-
-- live demo: https://krt-reviews-react.netlify.app/
-- source code: https://github.com/krtEngineer/react_projects/tree/master/reviews
-
-6. Questions :white_check_mark:
-
-- live demo: https://krt-questions-react.netlify.app/
-- source code: https://github.com/krtEngineer/react_projects/tree/master/questions
-
-7. Menu :white_check_mark:
-
-- live demo: https://krt-menu-react.netlify.app/
-- source code: https://github.com/krtEngineer/react_projects/tree/master/menu
-
-8. Tabs :white_check_mark:
-
-- live demo: https://krt-tabs-react.netlify.app/
-- source code: https://github.com/krtEngineer/react_projects/tree/master/tabs
-
-9. Slider :white_check_mark:
-
-- live demo: https://krt-slider-react.netlify.app/
-- source code: https://github.com/krtEngineer/react_projects/tree/master/slider
-
-10. Lorem Ipsum :white_check_mark:
-
-- live demo: https://krt-lorem-ipsum.netlify.app/
-- source code: https://github.com/krtEngineer/react_projects/tree/master/lorem-ipsum
-
-11. Color Generator :white_check_mark:
-
-- live demo: https://krt-color-generator.netlify.app/
-- source code: https://github.com/krtEngineer/react_projects/tree/master/color_generator
+```

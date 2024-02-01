@@ -1,4 +1,5 @@
 React Mini Projects
+
 ```json
 [
   {
@@ -7,7 +8,7 @@ React Mini Projects
     "demo": "https://krt-book-list.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/book_list",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 2,
@@ -15,7 +16,7 @@ React Mini Projects
     "demo": "https://krt-book-list.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/book_list",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 3,
@@ -23,7 +24,7 @@ React Mini Projects
     "demo": "https://krt-book-list.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/book_list",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 4,
@@ -31,7 +32,7 @@ React Mini Projects
     "demo": "https://krt-tours.netlify.app/",
     "code": " https://github.com/krtEngineer/react_projects/tree/master/tours",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 5,
@@ -39,7 +40,7 @@ React Mini Projects
     "demo": "https://krt-reviews-react.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/reviews",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 6,
@@ -47,7 +48,7 @@ React Mini Projects
     "demo": "https://krt-questions-react.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/questions",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 7,
@@ -55,7 +56,7 @@ React Mini Projects
     "demo": "https://krt-menu-react.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/menu",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 8,
@@ -63,7 +64,7 @@ React Mini Projects
     "demo": "https://krt-tabs-react.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/tabs",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 9,
@@ -71,7 +72,7 @@ React Mini Projects
     "demo": "https://krt-slider-react.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/slider",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 10,
@@ -79,7 +80,7 @@ React Mini Projects
     "demo": "https://krt-lorem-ipsum.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/lorem-ipsum",
     "img": "",
-    "status": 1,
+    "status": 1
   },
   {
     "id": 11,
@@ -87,8 +88,15 @@ React Mini Projects
     "demo": "https://krt-color-generator.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/color_generator",
     "img": "",
-    "status": 1,
+    "status": 1
   },
+  {
+    "id": 12,
+    "name": "grocery bud",
+    "demo": "https://krt-grocery-bud-react.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/grocery_bud",
+    "img": "",
+    "status": 1
+  }
 ]
-
 ```

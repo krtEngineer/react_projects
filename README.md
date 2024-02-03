@@ -97,6 +97,14 @@ React Mini Projects
     "code": "https://github.com/krtEngineer/react_projects/tree/master/grocery_bud",
     "img": "",
     "status": 1
+  },
+  {
+    "id": 13,
+    "name": "navbar",
+    "demo": "https://krt-navbar-react.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/navbar",
+    "img": "",
+    "status": 1
   }
 ]
 ```

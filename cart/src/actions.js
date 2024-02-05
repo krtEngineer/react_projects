@@ -1,0 +1,8 @@
+export const CLEAR_CART = "CLEAR_CART";
+export const REMOVE_ITEM = "REMOVE_ITEM";
+export const INCREMENT_ITEM_COUNT = "INCREMENT_ITEM_COUNT";
+export const DECREMENT_ITEM_COUNT = "DECREMENT_ITEM_COUNT";
+export const LOADING = "LOADING";
+export const DISPLAY_ITEMS = "DISPLAY_ITEMS";
+export const TOGGLE_AMOUNT = "TOGGLE_AMOUNT";
+export const GET_TOTALS = "GET_TOTALS";

@@ -105,6 +105,14 @@ React Mini Projects
     "code": "https://github.com/krtEngineer/react_projects/tree/master/navbar",
     "img": "",
     "status": 1
+  },
+  {
+    "id": 15,
+    "name": "cart",
+    "demo": "https://krt-cart.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/cart",
+    "img": "",
+    "status": 1
   }
 ]
 ```

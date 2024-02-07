@@ -106,6 +106,14 @@ React Mini Projects
     "img": "",
     "status": 1
   },
+ {
+    "id": 14,
+    "name": "sidebar",
+    "demo": "",
+    "code": "",
+    "img": "",
+    "status": 0
+  },
   {
     "id": 15,
     "name": "cart",

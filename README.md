@@ -137,6 +137,14 @@ React Mini Projects
     "code": "https://github.com/krtEngineer/contentful_cms",
     "img": "",
     "status": 1
+  },
+{
+    "id": 18,
+    "name": "cocktail search",
+    "demo": "https://krt-cocktail-react.netlify.app/",
+    "code": "https://github.com/krtEngineer/cocktail-search",
+    "img": "",
+    "status": 1
   }
 ]
 ```

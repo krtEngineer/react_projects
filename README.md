@@ -145,6 +145,14 @@ React Mini Projects
     "code": "https://github.com/krtEngineer/cocktail-search",
     "img": "",
     "status": 1
+  },
+{
+    "id": 19,
+    "name": "web dev portfolio",
+    "demo": "https://krt-web-dev-portfolio.netlify.app/",
+    "code": "https://github.com/krtEngineer/web-dev-tailwind-portfolio",
+    "img": "",
+    "status": 1
   }
 ]
 ```

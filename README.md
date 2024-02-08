@@ -106,11 +106,27 @@ React Mini Projects
     "img": "",
     "status": 1
   },
+ {
+    "id": 14,
+    "name": "sidebar",
+    "demo": "",
+    "code": "",
+    "img": "",
+    "status": 0
+  },
   {
     "id": 15,
     "name": "cart",
     "demo": "https://krt-cart.netlify.app/",
     "code": "https://github.com/krtEngineer/react_projects/tree/master/cart",
+    "img": "",
+    "status": 1
+  },
+{
+    "id": 16,
+    "name": "images search",
+    "demo": "https://krt-image-search.netlify.app/",
+    "code": "https://github.com/krtEngineer/unsplash-images-search",
     "img": "",
     "status": 1
   }

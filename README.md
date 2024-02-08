@@ -109,10 +109,10 @@ React Mini Projects
  {
     "id": 14,
     "name": "sidebar",
-    "demo": "",
-    "code": "",
+    "demo": "https://krt-react-sidebar.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/sidebar/sidebar",
     "img": "",
-    "status": 0
+    "status": 1
   },
   {
     "id": 15,

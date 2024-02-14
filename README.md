@@ -13,16 +13,16 @@ React Mini Projects
   {
     "id": 2,
     "name": "back roads",
-    "demo": "https://krt-book-list.netlify.app/",
-    "code": "https://github.com/krtEngineer/react_projects/tree/master/book_list",
+    "demo": "https://krt-backroads.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/backroads_tour_company",
     "img": "",
     "status": 1
   },
   {
     "id": 3,
     "name": "bdday buddy",
-    "demo": "https://krt-book-list.netlify.app/",
-    "code": "https://github.com/krtEngineer/react_projects/tree/master/book_list",
+    "demo": "https://krt-birthday-buddy.netlify.app/",
+    "code": "https://github.com/krtEngineer/react_projects/tree/master/birthday_buddy",
     "img": "",
     "status": 1
   },
